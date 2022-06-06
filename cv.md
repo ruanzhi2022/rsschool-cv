@@ -1,26 +1,26 @@
-Ivan Viacherski
+## ***Ivan Viacherski***
 
 
-Contacts
-
+#### Contacts
+-------------
 + Email: ruanzhi2022@gmail.com
 + Discord: (ruanzhi2022)#2994
 
 
-About me
+#### About me
+-------------
+*My initial goal at RS-School is to gain effective knowledge in a new field for me. Now I am interested in studying all aspects of work at FE and getting an important experience. I am ready to immerse myself in a new, interesting project. I have a successful experience in the field of sales, both in the team and independently.*
 
-My initial goal at RS-School is to gain effective knowledge in a new field for me. Now I am interested in studying all aspects of work at FE and getting an important experience. I am ready to immerse myself in a new, interesting project. I have a successful experience in the field of sales, both in the team and independently.
 
-
-Skills
-
+#### Skills
+-------------
 - HTML5 (beginner level)
 - CSS (beginner level)
 - Git (beginner level)
 
 
-Code example
-
+#### Code example
+-------------
 ```
 function multiply(a, b){
   return a * b;
@@ -28,17 +28,19 @@ function multiply(a, b){
 ```
 
 
-Education
-
+#### Education
+-------------
 Сourses:
 - HTML basics for beginners (code-basics.com)
 - CSS basics for beginners (code-basics.com)
 
-Experience
 
+#### Experience
+-------------
 Sales manager
 
 
-Language
-
+#### Language
+-------------
 - English - A2
+
