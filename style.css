@@ -1,5 +1,7 @@
-<style>
-  .small-capitals {
-    font-variant: small-caps;
-  }
-</style>
+body {
+  font-family: 'Roboto', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+
